@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lrod99
-- 👀 I’m interested in AI-generated apps custom GPTs PartyRock apps
-- 🌱 I’m currently re-learning to code so I can create next-level AI-generated apps
+- 👀 I’m interested in ai agents n8n 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
